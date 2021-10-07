@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Kuhuk</h1>
-<h3 align="center">A passionate Computer Science student at IGDTUW</h3>
+<h3 align="center">A Computer Science student at IGDTUW</h3>
 
 - 🌱 I’m currently learning **DS Algo and Web Development**
 
